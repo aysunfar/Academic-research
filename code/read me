@@ -1,0 +1,4 @@
+Last edition: 11/13/2015
+The main function to genrate the exact samples is exactSampling_Max.
+Comparing the samples gernearted by our exact method and discritization 
+method is possible by CompareDiscretizationExat.m function
